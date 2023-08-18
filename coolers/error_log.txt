@@ -1,0 +1,2 @@
+Error: [2] Array to string conversion - C:\xampp\htdocs\coolers\menu.php:32 
+Error: [2] Array to string conversion - C:\xampp\htdocs\coolers\menu.php:32 
